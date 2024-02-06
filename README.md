@@ -30,7 +30,7 @@ By selecting the "Start Game" button from the menu, players can begin the game.
 ### 7. Sound Effects:
 When the player hits a falling meteor object in the game, a sound effect (also known as game over sound) will play.
 
-##How to Play:
+## How to Play:
 ### 1.Run the game by executing the dodger_game.py script.
 ### 2.Use the LEFT and RIGHT arrow keys to move the spaceship.
 ### 3.Click the "Start Game" button to begin playing.
